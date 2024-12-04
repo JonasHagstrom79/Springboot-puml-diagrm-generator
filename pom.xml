@@ -178,20 +178,7 @@
 				</executions>
 			</plugin>
 
-<!--					<plugin>-->
-<!--						<groupId>com.buschmais.jqassistant.plugin</groupId>-->
-<!--						<artifactId>jqassistant-maven-plugin</artifactId>-->
-<!--						<version>1.11.0</version>-->
-<!--						<executions>-->
-<!--							<execution>-->
-<!--								<goals>-->
-<!--									<goal>scan</goal>-->
-<!--									<goal>analyze</goal>-->
-<!--									<goal>report</goal>-->
-<!--								</goals>-->
-<!--							</execution>-->
-<!--						</executions>-->
-<!--					</plugin>-->
+
 
 <!--			<plugin>-->
 <!--				<groupId>org.apache.maven.plugins</groupId>-->
